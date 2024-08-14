@@ -1,2 +1,1 @@
-ghcr.io/lagrangedev/lagrange.onebot:edge
 mlikiowa/napcat-docker:latest
